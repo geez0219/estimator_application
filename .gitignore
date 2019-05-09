@@ -1,0 +1,7 @@
+__pycache__
+.idea
+tiny-imagenet-200
+*.pkl
+*.h5
+*.tfrecord
+tensorboard
